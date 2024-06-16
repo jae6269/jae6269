@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fdd805" alt="header" />
 
-<!--
-**jae6269/jae6269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7BF42&center=true&vCenter=true&width=600&lines=Jaeyoung+Kim+%2C+Frontend+Developer" alt="Typing SVG" />
+  
+  <h2>About Me</h2>
+  <div>
+    <a href="http://qr.kakao.com/talk/XBpGXa1lChUTGmdH4.DDyQY31GE-">
+      <img src="https://img.shields.io/badge/kakaotalk-ffcd00?style=for-the-badge&logo=kakaotalk&logoColor=white" alt="kakaotalk">
+    </a>
+    <a href="https://velog.io/@jae6269/posts">
+      <img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white" alt="velog">
+    </a>
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+  <h2>Skills</h2>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
+    <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+    <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="react">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js">
+    <img src="https://img.shields.io/badge/reactquery-ff4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="reactquery">
+    <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+    <img src="https://img.shields.io/badge/styledcomponents-db7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="styledcomponents">
+    <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
+  </div>
+</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fdd805&section=footer" alt="footer" />
+</div>
