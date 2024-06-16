@@ -11,6 +11,10 @@
     <a href="https://velog.io/@jae6269/posts">
       <img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white" alt="velog">
     </a>
+    <a href="https://www.instagram.com/im_guguk">
+      <img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="velog">
+    </a>
+    
   </div>
 
  <div align="center">
