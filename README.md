@@ -19,12 +19,14 @@
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
     <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+    <br/>
     <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="react">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js">
-    <br/>
     <img src="https://img.shields.io/badge/reactquery-ff4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="reactquery">
+    <br/>
     <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
     <img src="https://img.shields.io/badge/styledcomponents-db7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="styledcomponents">
+    <br/>
     <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
   </div>
